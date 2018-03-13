@@ -9,3 +9,19 @@
 div#wall #tag-3.slick.wicked {
   display: none;
 }
+
+div#wall div.parent div#tag-4 {
+  display: none;
+}
+
+div#wall div.parent div#tag-5.slick {
+  display: none;
+}
+
+div#wall div.parent div div#tag-6 {
+  display: none;
+}
+
+div#wall div.parent div div#tag-7.slicked {
+  display: none;
+}
