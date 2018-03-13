@@ -1,5 +1,9 @@
-wall .tag-1 {
+#wall .tag-1 {
   display: none;
+}
+
+#wall #tag-3.slick.wicked {
+  display:none;
 }
 
 #wall .parent {
@@ -9,7 +13,3 @@ wall .tag-1 {
 #wall div#tag-2 {
   display: none;
 }
-
-div#wall div#tag-3.slick {
-  display: none;
-} 
